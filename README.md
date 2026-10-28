@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ansqanty&label=profile+views&color=lightgrey&style=for-the-badge" alt="Profile Views"><p align="center">
 <p align="center">
-  <img src="header.jpg" width=724 />
+  <img src="crona.jpg" width=724 />
   </p>
 <h1 align="center">𝗁𝗈𝗐’𝗌 𝗂𝗍 𝗀𝗈𝗂𝗇𝗀?</h1> 
 <h2 align="center"> · · ─────────────────────── ·.✦ · ─────────────────────── · · </h2>
