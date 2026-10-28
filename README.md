@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ansqanty&label=profile+views&color=090909&labelColor=a1246c&style=for-the-badge" alt="Profile Views"><p align="center">
+<img src="https://komarev.com/ghpvc/?username=ansqanty&label=profile+views&color=a1246c&labelColor=a1246c&style=for-the-badge" alt="Profile Views"><p align="center">
 <p align="center">
   <img src="crona.jpg" width=724 />
   </p>
